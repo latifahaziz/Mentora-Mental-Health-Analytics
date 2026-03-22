@@ -42,8 +42,8 @@ Mentora is a data-driven system designed to proactively identify employees who m
 
 ## 📂 Project Structure
 
-- `Mentora_DS_Lab.ipynb` – Data preprocessing, analysis, and model implementation  
-- `Mentora_DS.pdf` – Full project report (IEEE format)
+- `Mentora.ipynb` – Data preprocessing, analysis, and model implementation  
+- `Mentora.pdf` – Full project report (IEEE format)
 
 ---
 
